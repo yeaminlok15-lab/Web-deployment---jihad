@@ -1,7 +1,8 @@
+Flask
+gunicorn
 PyTelegramBotAPI
 psutil
 requests
-Flask
 qrcode
 Pillow
 cryptography
